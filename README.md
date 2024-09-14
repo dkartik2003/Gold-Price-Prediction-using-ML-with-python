@@ -1,4 +1,5 @@
 This was a project which i wrote for a project  during my college.
+
 Overview:-
 This project aims to predict gold prices using machine learning techniques. The dataset contains historical gold price data along with various economic indicators. A Random Forest Regressor model is employed to forecast future gold prices based on these features.
 
